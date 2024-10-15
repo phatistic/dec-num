@@ -1,5 +1,5 @@
 //% color="#5899f5" icon="\uf2a1"
-namespace btn {
+namespace decnum {
 
     let anmt = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
